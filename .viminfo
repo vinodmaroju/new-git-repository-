@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1678874291,,"wq!"
+|2,0,1678875260,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,29 @@
 # Registers:
 
 # File marks:
-'0  1  15  ~/mumgit
-|4,48,1,15,1678874291,"~/mumgit"
+'0  2  0  ~/linuxfile
+|4,48,2,0,1678875260,"~/linuxfile"
+'1  1  15  ~/mumgit
+|4,49,1,15,1678874291,"~/mumgit"
 
 # Jumplist (newest first):
+-'  2  0  ~/linuxfile
+|4,39,2,0,1678875260,"~/linuxfile"
+-'  1  0  ~/linuxfile
+|4,39,1,0,1678875232,"~/linuxfile"
+-'  1  15  ~/mumgit
+|4,39,1,15,1678874291,"~/mumgit"
 -'  1  15  ~/mumgit
 |4,39,1,15,1678874291,"~/mumgit"
 
 # History of marks within files (newest to oldest):
+
+> ~/linuxfile
+	*	1678875254	0
+	"	2	0
+	^	2	0
+	.	1	16
+	+	1	16
 
 > ~/mumgit
 	*	1678874278	0
